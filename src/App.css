@@ -13,10 +13,11 @@ body,
 }
 
 div {
-    border-radius: 50%;
+    border-radius: 100%;
     width: 100px;
     height: 100px;
     background-color: #daa520;
+    align-self: flex-start;
 }
 
 div:nth-child(even) {
